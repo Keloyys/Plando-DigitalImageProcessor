@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlandoDigitalImagerProcessor", "PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor.csproj", "{D913AFEC-32A5-4659-9A1A-A1997F70630D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D913AFEC-32A5-4659-9A1A-A1997F70630D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D913AFEC-32A5-4659-9A1A-A1997F70630D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D913AFEC-32A5-4659-9A1A-A1997F70630D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D913AFEC-32A5-4659-9A1A-A1997F70630D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A49FFD1D-18CA-47FC-823D-89F8D47E16D5}
+	EndGlobalSection
+EndGlobal
