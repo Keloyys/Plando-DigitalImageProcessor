@@ -9,3 +9,15 @@ C:\Users\subzero\Desktop\Kyle 3rd Year\C Sharp\PlandoDigitalImagerProcessor\Plan
 C:\Users\subzero\Desktop\Kyle 3rd Year\C Sharp\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\obj\Debug\PlandoDigitalImagerProcessor.exe
 C:\Users\subzero\Desktop\Kyle 3rd Year\C Sharp\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\obj\Debug\PlandoDigitalImagerProcessor.pdb
 C:\Users\subzero\Desktop\Kyle 3rd Year\C Sharp\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\obj\Debug\PlandoDigitalImagerProcessor.exe.config
+C:\Users\subzero\Source\Repos\Plando-DigitalImageProcessor\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\bin\Debug\PlandoDigitalImagerProcessor.exe.config
+C:\Users\subzero\Source\Repos\Plando-DigitalImageProcessor\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\bin\Debug\PlandoDigitalImagerProcessor.exe
+C:\Users\subzero\Source\Repos\Plando-DigitalImageProcessor\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\bin\Debug\PlandoDigitalImagerProcessor.pdb
+C:\Users\subzero\Source\Repos\Plando-DigitalImageProcessor\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\obj\Debug\PlandoDigitalImagerProcessor.csproj.AssemblyReference.cache
+C:\Users\subzero\Source\Repos\Plando-DigitalImageProcessor\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\obj\Debug\PlandoDigitalImagerProcessor.exe.config
+C:\Users\subzero\Source\Repos\Plando-DigitalImageProcessor\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\obj\Debug\PlandoDigitalImagerProcessor.Form1.resources
+C:\Users\subzero\Source\Repos\Plando-DigitalImageProcessor\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\obj\Debug\PlandoDigitalImagerProcessor.Properties.Resources.resources
+C:\Users\subzero\Source\Repos\Plando-DigitalImageProcessor\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\obj\Debug\PlandoDigitalImagerProcessor.csproj.GenerateResource.cache
+C:\Users\subzero\Source\Repos\Plando-DigitalImageProcessor\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\obj\Debug\PlandoDigitalImagerProcessor.csproj.CoreCompileInputs.cache
+C:\Users\subzero\Source\Repos\Plando-DigitalImageProcessor\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\obj\Debug\PlandoDigitalImagerProcessor.exe
+C:\Users\subzero\Source\Repos\Plando-DigitalImageProcessor\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\obj\Debug\PlandoDigitalImagerProcessor.pdb
+C:\Users\subzero\Source\Repos\Plando-DigitalImageProcessor\PlandoDigitalImagerProcessor\PlandoDigitalImagerProcessor\obj\Debug\PlandoDigitalImagerProcessor.Form2.resources
